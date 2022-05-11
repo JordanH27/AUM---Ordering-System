@@ -1,7 +1,7 @@
 # AUM---Ordering-System
 Ordering system
 
-This was created as a project. The business is real health shop based in melkbos who are lacking an online store.
+This was created as a project. The business is a real health shop based in melkbos who are lacking an online store. Due to the lack of frameworks, security and technology used, it has not been deployed.
 
 This project uses the fundementals of web development and therefore only bootstrap has been used as a framework. The rest is basic html, css, javascript and PHP.
 PHP is used as the backend and comminucates with the datasbase which was made in MySQL.
